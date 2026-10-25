@@ -1,6 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
   <g>
     <animateTransform attributeName="transform" type="rotate" values="0 32 32;360 32 32" dur="4s" repeatCount="indefinite"/>
-    <text x="32" y="32" text-anchor="middle" dominant-baseline="middle" font-size="50">⚙️</text>
+    <g fill="#9aa4b2">
+      <rect x="27" y="3" width="10" height="16" rx="3"/>
+      <rect x="27" y="3" width="10" height="16" rx="3" transform="rotate(45 32 32)"/>
+      <rect x="27" y="3" width="10" height="16" rx="3" transform="rotate(90 32 32)"/>
+      <rect x="27" y="3" width="10" height="16" rx="3" transform="rotate(135 32 32)"/>
+      <rect x="27" y="3" width="10" height="16" rx="3" transform="rotate(180 32 32)"/>
+      <rect x="27" y="3" width="10" height="16" rx="3" transform="rotate(225 32 32)"/>
+      <rect x="27" y="3" width="10" height="16" rx="3" transform="rotate(270 32 32)"/>
+      <rect x="27" y="3" width="10" height="16" rx="3" transform="rotate(315 32 32)"/>
+      <path d="M32 11a21 21 0 1 1 0 42 21 21 0 1 1 0-42m0 13a8 8 0 1 0 0 16 8 8 0 1 0 0-16" fill-rule="evenodd"/>
+    </g>
   </g>
 </svg>
