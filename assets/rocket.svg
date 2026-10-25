@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-2 2;2 -2;-2 2" dur="1.5s" repeatCount="indefinite"/>
+    <text x="32" y="50" text-anchor="middle" font-size="50">🚀</text>
+  </g>
+</svg>
